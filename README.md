@@ -3,7 +3,7 @@
 
 Judul       : RecyclerView2
 
-# ScreenShoots    
+# ScreenShoot Aplikasi    
 
 ScreenShoot 1 
 
